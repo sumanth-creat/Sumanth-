@@ -1,2 +1,3 @@
 # Sumanth-
-this is my first hit repository 
+this is my first git repository 
+author sumanth 
